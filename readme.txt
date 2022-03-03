@@ -10,4 +10,3 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 test
 test2
-test3
